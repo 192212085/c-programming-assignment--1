@@ -1,1 +1,1 @@
-# c-programming-assignment--1
+# c-programming-assignments
